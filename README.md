@@ -15,3 +15,5 @@ This is a test.
 Some more text.
 
 This is a test A.
+
+This is a test B.
