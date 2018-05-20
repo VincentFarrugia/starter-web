@@ -17,3 +17,7 @@ Some more text.
 This is a test A.
 
 This is a test B.
+
+### Copyright
+
+Test Copyright notice.
