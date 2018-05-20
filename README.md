@@ -21,3 +21,8 @@ This is a test B.
 ### Copyright
 
 Test Copyright notice.
+
+
+### How to Contribute
+
+Test Test
