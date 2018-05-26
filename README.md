@@ -29,3 +29,4 @@ Test Copyright notice.
 ### How to Contribute
 
 Test Test
+All rights reserved.
